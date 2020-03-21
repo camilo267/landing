@@ -1,0 +1,32 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1558137623-ce933996c730?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.container h1{
+  color: white;
+  font-size: 40px;
+  font-family: 'Baloo Chettan 2', cursive;
+}
+
+.container p {
+  font-size: 20px;
+  line-height: 1.4;
+  margin-bottom: 0;
+  margin-top: 8px;
+  color: white;
+  margin: 16px;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+.btn-primary{
+  color: white;
+  background-color: #1EDD88;
+  padding: 8px 24px;
+  border-radius: 50px;
+}
+
